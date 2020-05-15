@@ -1,9 +1,13 @@
 /*********************************************************
  *   AUTHOR        : Jordan Miller
- *   Assignment    : FTokenizer
- *   CLASS         : CS 008
- *   SECTION       : MTWR 4:00p
- *   Due Date      : 09/22/2019
+ * 
+ *   PROJECT       : Relational Database
+ * 
+ *   PURPOSE       : Relatinal database management system
+ *                   using B+ Tree indexing with SQL command
+ *                   interface
+ * 
+ *   Copyright (c) 2019, Jordan Miller
  ********************************************************
 FILE: my_token.h
     Provides functions used for making a state table for an STokenizer

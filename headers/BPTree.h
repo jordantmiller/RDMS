@@ -1,9 +1,13 @@
 /*********************************************************
  *   AUTHOR        : Jordan Miller
- *   Assignment    : BPTree class
- *   CLASS         : CS 008
- *   SECTION       : MTWR 4:00p
- *   Due Date      : 11/17/2019
+ * 
+ *   PROJECT       : Relational Database
+ * 
+ *   PURPOSE       : Relatinal database management system
+ *                   using B+ Tree indexing with SQL command
+ *                   interface
+ * 
+ *   Copyright (c) 2019, Jordan Miller
  ********************************************************
 FILE: BPTree.h
 TEMPLATE CLASS PROVIDED: BPTree<Item> (Balanced+ Tree)

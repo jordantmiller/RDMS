@@ -1,9 +1,13 @@
 /*********************************************************
  *   AUTHOR        : Jordan Miller
- *   Assignment    : Final Project
- *   CLASS         : CS 008
- *   SECTION       : MTWR 4:00p
- *   Due Date      : 12/06/2019
+ * 
+ *   PROJECT       : Relational Database
+ * 
+ *   PURPOSE       : Relatinal database management system
+ *                   using B+ Tree indexing with SQL command
+ *                   interface
+ * 
+ *   Copyright (c) 2019, Jordan Miller
  ********************************************************
  An SQL class to direct user input to a Parser
  and use the ptree from the parser to interact with 
